@@ -12,3 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3ccea548af7d61b4ba6613162c6132bc, type: 3}
   m_Name: StatConfigs
   m_EditorClassIdentifier: 
+  stats:
+  - type: 0
+    label: Health
+    description: 
+  - type: 1
+    label: Attack
+    description: 
+  - type: 2
+    label: Defense
+    description: 
+  - type: 3
+    label: Speed
+    description: 
